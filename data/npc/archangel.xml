@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<npc name="Archangel" script="data/npc/scripts/troca.lua" access="5" lookdir="2" walkinterval="0"> 
+  <health now="200" max="200" /> 
+   <look typeex="6080" head="0" body="0" legs="0" feet="0" addons="0" />
+<voices>
+<voice text="HELP!" interval2="50" margin="10" yell="no"/>
+</voices> 
+  <parameters> 
+    <parameter key="message_greet" value="Por favor |PLAYERNAME|.Fui ferido,invada o castelo,derrote os monstros,destrua o cubo e pegue minha arma,diga {sword of angel}" /> 
+  </parameters> 
+</npc>

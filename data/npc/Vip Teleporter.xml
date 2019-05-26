@@ -1,0 +1,8 @@
+<?xml version="1.0"?> 
+<npc name="Premium Teleporter" script="data/npc/scripts/vipteleporter.lua" access="5" lookdir="2" walkinterval="2000"> 
+  <health now="200" max="200" /> 
+   <look type="356" head="0" body="0" legs="0" feet="0" addons="0" /> 
+  <parameters> 
+       <parameter key="message_greet" value="Ola |PLAYERNAME|.Posso te levar a cidade [VIP],diga {cidade vip},para voltar diga {carlin}" />
+  </parameters> 
+</npc>

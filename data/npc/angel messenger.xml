@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<npc name="Angel Messenger" script="data/npc/scripts/angel messenger.lua" walkinterval="0" floorchange="0"> 
+    <health now="100" max="100"/> 
+    <look type="335" head="0" body="0" legs="0" feet="0" addons="3"/>
+<voices>
+<voice text="Precisamos de Guerreiros,venho lhe trazer noticias" interval2="100" margin="1" yell="no"/>
+</voices> 
+    <parameters> 
+        <parameter key="module_shop" value="1"/> 
+        <parameter key="message_greet" value="Ola |PLAYERNAME|, eu tenho o item nescessario para entrar em Blood Castle diga {trade} e diga {!mission} para entrar em Blood Castle."/>
+        <parameter key="shop_buyable" value="Enter of Blood Castle,12385,1000000;"/> 
+    </parameters> 
+</npc> 

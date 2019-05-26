@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Alia" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="138" head="96" body="95" legs="0" feet="95" addons="3"/>
+<voices>
+<voice text="Seja Bem Vindo ao Global Compacto" interval2="100" margin="10" yell="no"/>
+</voices>
+</npc>

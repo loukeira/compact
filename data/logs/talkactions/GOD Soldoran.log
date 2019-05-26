@@ -1,0 +1,3499 @@
+[15/09/2011 22:31:48] /save
+[15/09/2011 22:34:33] /newtype 302
+[15/09/2011 22:36:47] /reload groups
+[15/09/2011 22:37:02] /reload xml
+[15/09/2011 22:37:14] /reload groups
+[15/09/2011 23:16:19] /t
+[15/09/2011 23:17:30] /t
+[15/09/2011 23:55:15] /r
+[15/09/2011 23:56:00] /i 11047
+[15/09/2011 23:56:05] /r
+[15/09/2011 23:56:11] /i 11047
+[15/09/2011 23:56:13] /i 11049
+[15/09/2011 23:56:16] /i 11050
+[15/09/2011 23:56:18] /i 11051
+[15/09/2011 23:56:21] /i 11052
+[15/09/2011 23:56:23] /i 11053
+[15/09/2011 23:56:26] /i 11054
+[15/09/2011 23:56:31] /r
+[15/09/2011 23:56:33] /r
+[15/09/2011 23:56:36] /r
+[15/09/2011 23:56:38] /r
+[15/09/2011 23:56:39] /r
+[15/09/2011 23:56:40] /r
+[15/09/2011 23:56:41] /r
+[15/09/2011 23:58:39] /i 2160
+[16/09/2011 00:17:01] /i sword of angel
+[16/09/2011 00:23:17] /reload globalevents
+[16/09/2011 00:24:49] /reload globalevents
+[16/09/2011 00:24:59] /reload globalevents
+[16/09/2011 00:26:27] /reload globalevents
+[16/09/2011 00:26:46] /reload globalevents
+[16/09/2011 00:27:42] /reload globalevents
+[16/09/2011 00:28:50] /reload npcs
+[16/09/2011 18:32:22] /t
+[16/09/2011 18:35:14] /c loko
+[16/09/2011 18:35:18] /c lokoo
+[16/09/2011 18:36:17] /i 12385
+[16/09/2011 18:36:18] /i 12385
+[16/09/2011 18:36:43] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:44] /addskill Lokoo,level
+[16/09/2011 18:36:45] /addskill Lokoo,level
+[16/09/2011 18:36:46] /addskill Lokoo,level
+[16/09/2011 18:36:48] /addskill Lokoo,level
+[16/09/2011 18:36:52] /addskill Lokoo,level
+[16/09/2011 18:36:53] /addskill Lokoo,level
+[16/09/2011 18:36:54] /addskill Lokoo,level
+[16/09/2011 18:36:55] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:56] /addskill Lokoo,level
+[16/09/2011 18:36:57] /addskill Lokoo,level
+[16/09/2011 18:36:57] /addskill Lokoo,level
+[16/09/2011 18:36:57] /addskill Lokoo,level
+[16/09/2011 18:36:57] /addskill Lokoo,level
+[16/09/2011 18:36:57] /addskill Lokoo,level
+[16/09/2011 18:36:57] /addskill Lokoo,level
+[16/09/2011 18:36:58] /addskill Lokoo,level
+[16/09/2011 18:36:58] /addskill Lokoo,level
+[16/09/2011 18:36:58] /addskill Lokoo,level
+[16/09/2011 18:36:58] /addskill Lokoo,level
+[16/09/2011 18:36:58] /addskill Lokoo,level
+[16/09/2011 18:36:58] /addskill Lokoo,level
+[16/09/2011 18:36:58] /addskill Lokoo,level
+[16/09/2011 18:36:58] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:00] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:01] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:02] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:03] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:04] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:05] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:06] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:37:07] /addskill Lokoo,level
+[16/09/2011 18:38:02] /promote lokoo
+[16/09/2011 18:38:03] /promote lokoo
+[16/09/2011 18:38:04] /promote lokoo
+[16/09/2011 18:38:05] /r
+[16/09/2011 18:38:44] /a 4
+[16/09/2011 18:38:49] /c lokoo
+[16/09/2011 18:39:09] /s trainer
+[16/09/2011 18:40:11] /clean
+[16/09/2011 18:40:32] /clean
+[16/09/2011 18:41:04] /i 10313
+[16/09/2011 18:43:32] /promote lokoo
+[16/09/2011 18:43:35] /promote lokoo
+[16/09/2011 18:43:37] /promote lokoo
+[16/09/2011 18:43:39] /r
+[16/09/2011 18:43:53] /goto archangel
+[16/09/2011 18:43:57] /c lokoo
+[16/09/2011 18:45:59] /i 8300
+[16/09/2011 18:46:26] /i 8300
+[16/09/2011 18:46:34] /i 8300
+[16/09/2011 18:47:39] /a 2
+[16/09/2011 18:48:13] /bc green vai no tp da nova quest :D
+[16/09/2011 18:49:20] /goto tirecz
+[16/09/2011 18:49:27] /c lokoo
+[16/09/2011 18:49:46] /a 3
+[16/09/2011 18:49:55] /c lokoo
+[16/09/2011 18:49:56] /c lokoo
+[16/09/2011 18:51:40] /t
+[16/09/2011 18:59:10] /goto lokoo
+[16/09/2011 19:08:43] /t
+[16/09/2011 21:15:27] /t
+[16/09/2011 21:16:18] /reload global events
+[17/09/2011 17:39:55] /reload global events
+[17/09/2011 17:39:59] /r
+[17/09/2011 17:44:58] /reload talkactions
+[17/09/2011 17:45:31] /reload talkactions
+[17/09/2011 17:46:27] /reload talkactions
+[17/09/2011 17:47:09] /reload talkactions
+[17/09/2011 17:47:54] /reload talkactions
+[17/09/2011 17:48:06] /reload talkactions
+[17/09/2011 17:54:17] /reload talkactions
+[17/09/2011 17:57:05] /reload talkactions
+[17/09/2011 17:59:35] /reload talkactions
+[17/09/2011 18:04:04] /reload talkactions
+[17/09/2011 18:05:44] /reload talkactions
+[17/09/2011 18:06:01] /reload talkactions
+[17/09/2011 18:06:35] /reload talkactions
+[17/09/2011 18:06:48] /reload talkactions
+[17/09/2011 18:07:22] /reload talkactions
+[17/09/2011 18:07:34] /reload talkactions
+[17/09/2011 18:08:49] /reload talkactions
+[17/09/2011 18:21:02] /reload talkactions
+[17/09/2011 18:21:06] /t
+[17/09/2011 18:23:30] /reload talkactions
+[17/09/2011 18:24:23] /reload talkactions
+[17/09/2011 18:24:50] /reload talkactions
+[17/09/2011 18:25:25] /reload talkactions
+[17/09/2011 18:26:13] /reload talkactions
+[17/09/2011 18:26:33] /reload talkactions
+[17/09/2011 18:27:07] /reload talkactions
+[17/09/2011 18:28:01] /reload talkactions
+[17/09/2011 18:29:38] /reload talkactions
+[17/09/2011 19:22:10] /i 12836
+[17/09/2011 19:22:20] /a 25
+[17/09/2011 19:22:32] /i 12385
+[17/09/2011 19:22:33] /i 12385
+[17/09/2011 19:25:47] /reload talkactions
+[17/09/2011 19:26:22] /reload talkactions
+[17/09/2011 19:26:44] /i 12835
+[17/09/2011 19:26:50] /i 12835
+[17/09/2011 19:26:55] /i 12385
+[17/09/2011 19:28:14] /up
+[17/09/2011 19:28:23] /down
+[17/09/2011 19:29:02] /addskill Testando,level
+[17/09/2011 19:29:02] /addskill Testando,level
+[17/09/2011 19:29:02] /addskill Testando,level
+[17/09/2011 19:29:02] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:03] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:04] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:05] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:06] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:07] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:08] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:09] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:10] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:11] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:12] /addskill Testando,level
+[17/09/2011 19:29:20] /addskill Testando,level
+[17/09/2011 19:29:20] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:21] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:22] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:23] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:24] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:29:25] /addskill Testando,level
+[17/09/2011 19:30:41] /r
+[17/09/2011 19:30:50] /r
+[17/09/2011 19:30:59] /kick Testando
+[17/09/2011 19:32:14] /i 1385
+[17/09/2011 19:32:17] /r
+[17/09/2011 19:32:21] /i 12385
+[17/09/2011 19:32:42] /i 12385
+[17/09/2011 19:33:32] /reload globalevents
+[17/09/2011 19:33:38] /reload talkactions
+[17/09/2011 19:34:21] /reload talkactions
+[17/09/2011 19:34:32] /i 12385
+[17/09/2011 19:34:43] /i 12385
+[17/09/2011 19:35:14] /i 2160
+[17/09/2011 19:35:22] /i 12385
+[17/09/2011 19:36:13] /reload talkactions
+[17/09/2011 19:36:57] /reload talkactions
+[17/09/2011 19:37:26] /reload talkactions
+[18/09/2011 02:31:16] /i winning lottery ticket
+[18/09/2011 02:32:04] /i giant spider silk
+[18/09/2011 02:32:13] /i bat wing
+[18/09/2011 02:32:18] /i red piece of cloth
+[18/09/2011 02:32:24] /i ape fur
+[18/09/2011 02:32:28] /i holy orshid
+[18/09/2011 02:32:34] /i holy orchid
+[18/09/2011 02:32:42] /i lizard scale
+[18/09/2011 02:32:48] /i red dragon scale
+[18/09/2011 02:32:52] /i vampire dust
+[18/09/2011 02:32:59] /i fire sword
+[18/09/2011 02:33:00] /i fire sword
+[18/09/2011 02:33:01] /i fire sword
+[18/09/2011 02:54:34] /i 10022
+[18/09/2011 02:56:45] /i 9934
+[18/09/2011 03:03:07] /reload npcs
+[18/09/2011 03:06:35] /reload globalevents
+[18/09/2011 03:08:04] /reload npcs
+[20/09/2011 06:52:39] /t
+[20/09/2011 06:52:54] /addskill Blade Knight,sword
+[20/09/2011 06:52:54] /addskill Blade Knight,sword
+[20/09/2011 06:52:54] /addskill Blade Knight,sword
+[20/09/2011 06:52:54] /addskill Blade Knight,sword
+[20/09/2011 06:52:54] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:55] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:56] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:57] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:58] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:52:59] /addskill Blade Knight,sword
+[20/09/2011 06:53:00] /addskill Blade Knight,sword
+[20/09/2011 06:53:00] /addskill Blade Knight,sword
+[20/09/2011 06:53:09] /addskill Blade Knight,shield
+[20/09/2011 06:53:09] /addskill Blade Knight,shield
+[20/09/2011 06:53:09] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:10] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:11] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:12] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:13] /addskill Blade Knight,shield
+[20/09/2011 06:53:14] /addskill Blade Knight,shield
+[20/09/2011 06:53:14] /addskill Blade Knight,shield
+[20/09/2011 06:53:15] /addskill Blade Knight,shield
+[20/09/2011 06:53:15] /addskill Blade Knight,shield
+[20/09/2011 06:53:15] /addskill Blade Knight,shield
+[20/09/2011 06:53:15] /addskill Blade Knight,shield
+[20/09/2011 06:53:15] /addskill Blade Knight,shield
+[20/09/2011 06:53:21] /addskill Blade Knight,magic
+[20/09/2011 06:53:22] /addskill Blade Knight,magic
+[20/09/2011 06:53:22] /addskill Blade Knight,magic
+[20/09/2011 06:53:23] /addskill Blade Knight,magic
+[20/09/2011 06:53:23] /addskill Blade Knight,magic
+[20/09/2011 06:53:23] /addskill Blade Knight,magic
+[20/09/2011 06:53:24] /addskill Blade Knight,magic
+[20/09/2011 06:53:24] /addskill Blade Knight,magic
+[20/09/2011 06:53:25] /addskill Blade Knight,magic
+[20/09/2011 06:53:26] /addskill Blade Knight,magic
+[20/09/2011 06:53:27] /addskill Blade Knight,magic
+[20/09/2011 06:53:32] /addskill Blade Knight,level
+[20/09/2011 06:53:32] /addskill Blade Knight,level
+[20/09/2011 06:53:32] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:33] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:34] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:35] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:36] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:37] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:38] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:39] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:40] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:41] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:42] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:43] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:44] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:45] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:46] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:47] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:48] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:49] /addskill Blade Knight,level
+[20/09/2011 06:53:50] /addskill Blade Knight,level
+[20/09/2011 06:53:50] /addskill Blade Knight,level
+[20/09/2011 06:53:50] /addskill Blade Knight,level
+[20/09/2011 06:53:50] /addskill Blade Knight,level
+[20/09/2011 06:53:50] /addskill Blade Knight,level
+[20/09/2011 06:53:50] /addskill Blade Knight,level
+[20/09/2011 06:53:50] /addskill Blade Knight,level
+[20/09/2011 06:53:50] /addskill Blade Knight,level
+[20/09/2011 06:53:51] /addskill Blade Knight,level
+[20/09/2011 06:53:51] /addskill Blade Knight,level
+[20/09/2011 06:53:51] /addskill Blade Knight,level
+[20/09/2011 06:53:51] /addskill Blade Knight,level
+[20/09/2011 06:53:51] /addskill Blade Knight,level
+[20/09/2011 06:53:52] /addskill Blade Knight,level
+[20/09/2011 06:57:39] /i enforced sword
+[20/09/2011 06:57:54] /i enforced knight shield
+[20/09/2011 06:59:13] /i enforced knight helmet
+[20/09/2011 06:59:17] /i enforced knight armor
+[20/09/2011 06:59:20] /i enforced knight legs
+[20/09/2011 06:59:23] /i enforced knight boots
+[20/09/2011 07:03:38] /clean
+[20/09/2011 07:03:45] /i 2160
+[20/09/2011 07:04:35] /i enforced wand
+[20/09/2011 07:04:43] /i endorced mage shield
+[20/09/2011 07:04:58] /i enforced mage shield
+[20/09/2011 07:05:09] /i enforced mage helmet
+[20/09/2011 07:05:15] /i enforced mage armor
+[20/09/2011 07:05:22] /i enforced mage legs
+[20/09/2011 07:05:33] /i enforced mage boots
+[20/09/2011 07:05:52] /addskill Thunderbringer,level
+[20/09/2011 07:05:53] /addskill Thunderbringer,level
+[20/09/2011 07:05:53] /addskill Thunderbringer,level
+[20/09/2011 07:05:53] /addskill Thunderbringer,level
+[20/09/2011 07:05:53] /addskill Thunderbringer,level
+[20/09/2011 07:05:53] /addskill Thunderbringer,level
+[20/09/2011 07:05:53] /addskill Thunderbringer,level
+[20/09/2011 07:05:54] /addskill Thunderbringer,level
+[20/09/2011 07:05:54] /addskill Thunderbringer,level
+[20/09/2011 07:05:54] /addskill Thunderbringer,level
+[20/09/2011 07:05:54] /addskill Thunderbringer,level
+[20/09/2011 07:05:54] /addskill Thunderbringer,level
+[20/09/2011 07:05:54] /addskill Thunderbringer,level
+[20/09/2011 07:05:54] /addskill Thunderbringer,level
+[20/09/2011 07:05:54] /addskill Thunderbringer,level
+[20/09/2011 07:05:55] /addskill Thunderbringer,level
+[20/09/2011 07:05:55] /addskill Thunderbringer,level
+[20/09/2011 07:05:55] /addskill Thunderbringer,level
+[20/09/2011 07:05:55] /addskill Thunderbringer,level
+[20/09/2011 07:05:55] /addskill Thunderbringer,level
+[20/09/2011 07:05:55] /addskill Thunderbringer,level
+[20/09/2011 07:05:55] /addskill Thunderbringer,level
+[20/09/2011 07:05:55] /addskill Thunderbringer,level
+[20/09/2011 07:05:56] /addskill Thunderbringer,level
+[20/09/2011 07:05:56] /addskill Thunderbringer,level
+[20/09/2011 07:05:56] /addskill Thunderbringer,level
+[20/09/2011 07:05:56] /addskill Thunderbringer,level
+[20/09/2011 07:05:56] /addskill Thunderbringer,level
+[20/09/2011 07:05:56] /addskill Thunderbringer,level
+[20/09/2011 07:05:56] /addskill Thunderbringer,level
+[20/09/2011 07:05:56] /addskill Thunderbringer,level
+[20/09/2011 07:05:57] /addskill Thunderbringer,level
+[20/09/2011 07:05:57] /addskill Thunderbringer,level
+[20/09/2011 07:05:57] /addskill Thunderbringer,level
+[20/09/2011 07:05:57] /addskill Thunderbringer,level
+[20/09/2011 07:05:57] /addskill Thunderbringer,level
+[20/09/2011 07:05:57] /addskill Thunderbringer,level
+[20/09/2011 07:05:57] /addskill Thunderbringer,level
+[20/09/2011 07:05:57] /addskill Thunderbringer,level
+[20/09/2011 07:05:58] /addskill Thunderbringer,level
+[20/09/2011 07:05:58] /addskill Thunderbringer,level
+[20/09/2011 07:05:58] /addskill Thunderbringer,level
+[20/09/2011 07:05:58] /addskill Thunderbringer,level
+[20/09/2011 07:05:58] /addskill Thunderbringer,level
+[20/09/2011 07:05:58] /addskill Thunderbringer,level
+[20/09/2011 07:05:58] /addskill Thunderbringer,level
+[20/09/2011 07:05:58] /addskill Thunderbringer,level
+[20/09/2011 07:05:59] /addskill Thunderbringer,level
+[20/09/2011 07:05:59] /addskill Thunderbringer,level
+[20/09/2011 07:05:59] /addskill Thunderbringer,level
+[20/09/2011 07:05:59] /addskill Thunderbringer,level
+[20/09/2011 07:05:59] /addskill Thunderbringer,level
+[20/09/2011 07:05:59] /addskill Thunderbringer,level
+[20/09/2011 07:05:59] /addskill Thunderbringer,level
+[20/09/2011 07:06:00] /addskill Thunderbringer,level
+[20/09/2011 07:06:00] /addskill Thunderbringer,level
+[20/09/2011 07:06:00] /addskill Thunderbringer,level
+[20/09/2011 07:06:00] /addskill Thunderbringer,level
+[20/09/2011 07:06:00] /addskill Thunderbringer,level
+[20/09/2011 07:06:00] /addskill Thunderbringer,level
+[20/09/2011 07:06:00] /addskill Thunderbringer,level
+[20/09/2011 07:06:00] /addskill Thunderbringer,level
+[20/09/2011 07:06:01] /addskill Thunderbringer,level
+[20/09/2011 07:06:01] /addskill Thunderbringer,level
+[20/09/2011 07:06:01] /addskill Thunderbringer,level
+[20/09/2011 07:06:01] /addskill Thunderbringer,level
+[20/09/2011 07:06:01] /addskill Thunderbringer,level
+[20/09/2011 07:06:01] /addskill Thunderbringer,level
+[20/09/2011 07:06:01] /addskill Thunderbringer,level
+[20/09/2011 07:06:01] /addskill Thunderbringer,level
+[20/09/2011 07:06:02] /addskill Thunderbringer,level
+[20/09/2011 07:06:02] /addskill Thunderbringer,level
+[20/09/2011 07:06:02] /addskill Thunderbringer,level
+[20/09/2011 07:06:02] /addskill Thunderbringer,level
+[20/09/2011 07:06:02] /addskill Thunderbringer,level
+[20/09/2011 07:06:02] /addskill Thunderbringer,level
+[20/09/2011 07:06:02] /addskill Thunderbringer,level
+[20/09/2011 07:06:02] /addskill Thunderbringer,level
+[20/09/2011 07:06:03] /addskill Thunderbringer,level
+[20/09/2011 07:06:03] /addskill Thunderbringer,level
+[20/09/2011 07:06:03] /addskill Thunderbringer,level
+[20/09/2011 07:06:03] /addskill Thunderbringer,level
+[20/09/2011 07:06:03] /addskill Thunderbringer,level
+[20/09/2011 07:06:03] /addskill Thunderbringer,level
+[20/09/2011 07:06:03] /addskill Thunderbringer,level
+[20/09/2011 07:06:05] /addskill Thunderbringer,level
+[20/09/2011 07:06:05] /addskill Thunderbringer,level
+[20/09/2011 07:06:05] /addskill Thunderbringer,level
+[20/09/2011 07:06:06] /addskill Thunderbringer,level
+[20/09/2011 07:06:06] /addskill Thunderbringer,level
+[20/09/2011 07:06:06] /addskill Thunderbringer,level
+[20/09/2011 07:06:06] /addskill Thunderbringer,level
+[20/09/2011 07:06:06] /addskill Thunderbringer,level
+[20/09/2011 07:06:06] /addskill Thunderbringer,level
+[20/09/2011 07:06:06] /addskill Thunderbringer,level
+[20/09/2011 07:06:06] /addskill Thunderbringer,level
+[20/09/2011 07:06:07] /addskill Thunderbringer,level
+[20/09/2011 07:06:07] /addskill Thunderbringer,level
+[20/09/2011 07:06:07] /addskill Thunderbringer,level
+[20/09/2011 07:06:07] /addskill Thunderbringer,level
+[20/09/2011 07:06:07] /addskill Thunderbringer,level
+[20/09/2011 07:06:07] /addskill Thunderbringer,level
+[20/09/2011 07:06:07] /addskill Thunderbringer,level
+[20/09/2011 07:06:07] /addskill Thunderbringer,level
+[20/09/2011 07:06:08] /addskill Thunderbringer,level
+[20/09/2011 07:06:08] /addskill Thunderbringer,level
+[20/09/2011 07:06:08] /addskill Thunderbringer,level
+[20/09/2011 07:06:08] /addskill Thunderbringer,level
+[20/09/2011 07:06:08] /addskill Thunderbringer,level
+[20/09/2011 07:06:08] /addskill Thunderbringer,level
+[20/09/2011 07:06:08] /addskill Thunderbringer,level
+[20/09/2011 07:06:09] /addskill Thunderbringer,level
+[20/09/2011 07:06:09] /addskill Thunderbringer,level
+[20/09/2011 07:06:09] /addskill Thunderbringer,level
+[20/09/2011 07:06:09] /addskill Thunderbringer,level
+[20/09/2011 07:06:09] /addskill Thunderbringer,level
+[20/09/2011 07:06:09] /addskill Thunderbringer,level
+[20/09/2011 07:06:09] /addskill Thunderbringer,level
+[20/09/2011 07:06:09] /addskill Thunderbringer,level
+[20/09/2011 07:06:10] /addskill Thunderbringer,level
+[20/09/2011 07:06:10] /addskill Thunderbringer,level
+[20/09/2011 07:06:10] /addskill Thunderbringer,level
+[20/09/2011 07:06:10] /addskill Thunderbringer,level
+[20/09/2011 07:06:10] /addskill Thunderbringer,level
+[20/09/2011 07:06:10] /addskill Thunderbringer,level
+[20/09/2011 07:06:10] /addskill Thunderbringer,level
+[20/09/2011 07:06:10] /addskill Thunderbringer,level
+[20/09/2011 07:06:11] /addskill Thunderbringer,level
+[20/09/2011 07:06:11] /addskill Thunderbringer,level
+[20/09/2011 07:06:11] /addskill Thunderbringer,level
+[20/09/2011 07:06:11] /addskill Thunderbringer,level
+[20/09/2011 07:06:11] /addskill Thunderbringer,level
+[20/09/2011 07:06:11] /addskill Thunderbringer,level
+[20/09/2011 07:06:11] /addskill Thunderbringer,level
+[20/09/2011 07:06:11] /addskill Thunderbringer,level
+[20/09/2011 07:06:12] /addskill Thunderbringer,level
+[20/09/2011 07:06:12] /addskill Thunderbringer,level
+[20/09/2011 07:06:12] /addskill Thunderbringer,level
+[20/09/2011 07:06:12] /addskill Thunderbringer,level
+[20/09/2011 07:06:12] /addskill Thunderbringer,level
+[20/09/2011 07:06:12] /addskill Thunderbringer,level
+[20/09/2011 07:06:12] /addskill Thunderbringer,level
+[20/09/2011 07:06:12] /addskill Thunderbringer,level
+[20/09/2011 07:06:13] /addskill Thunderbringer,level
+[20/09/2011 07:06:13] /addskill Thunderbringer,level
+[20/09/2011 07:06:13] /addskill Thunderbringer,level
+[20/09/2011 07:06:13] /addskill Thunderbringer,level
+[20/09/2011 07:06:13] /addskill Thunderbringer,level
+[20/09/2011 07:06:13] /addskill Thunderbringer,level
+[20/09/2011 07:06:13] /addskill Thunderbringer,level
+[20/09/2011 07:06:14] /addskill Thunderbringer,level
+[20/09/2011 07:06:14] /addskill Thunderbringer,level
+[20/09/2011 07:06:14] /addskill Thunderbringer,level
+[20/09/2011 07:06:14] /addskill Thunderbringer,level
+[20/09/2011 07:06:14] /addskill Thunderbringer,level
+[20/09/2011 07:06:14] /addskill Thunderbringer,level
+[20/09/2011 07:06:14] /addskill Thunderbringer,level
+[20/09/2011 07:06:14] /addskill Thunderbringer,level
+[20/09/2011 07:06:15] /addskill Thunderbringer,level
+[20/09/2011 07:06:15] /addskill Thunderbringer,level
+[20/09/2011 07:06:15] /addskill Thunderbringer,level
+[20/09/2011 07:06:15] /addskill Thunderbringer,level
+[20/09/2011 07:06:15] /addskill Thunderbringer,level
+[20/09/2011 07:06:15] /addskill Thunderbringer,level
+[20/09/2011 07:06:15] /addskill Thunderbringer,level
+[20/09/2011 07:06:15] /addskill Thunderbringer,level
+[20/09/2011 07:06:16] /addskill Thunderbringer,level
+[20/09/2011 07:06:16] /addskill Thunderbringer,level
+[20/09/2011 07:06:16] /addskill Thunderbringer,level
+[20/09/2011 07:06:16] /addskill Thunderbringer,level
+[20/09/2011 07:06:16] /addskill Thunderbringer,level
+[20/09/2011 07:06:16] /addskill Thunderbringer,level
+[20/09/2011 07:06:16] /addskill Thunderbringer,level
+[20/09/2011 07:06:16] /addskill Thunderbringer,level
+[20/09/2011 07:06:17] /addskill Thunderbringer,level
+[20/09/2011 07:06:17] /addskill Thunderbringer,level
+[20/09/2011 07:06:17] /addskill Thunderbringer,level
+[20/09/2011 07:06:17] /addskill Thunderbringer,level
+[20/09/2011 07:06:17] /addskill Thunderbringer,level
+[20/09/2011 07:06:17] /addskill Thunderbringer,level
+[20/09/2011 07:06:17] /addskill Thunderbringer,level
+[20/09/2011 07:06:17] /addskill Thunderbringer,level
+[20/09/2011 07:06:17] /addskill Thunderbringer,level
+[20/09/2011 07:06:18] /addskill Thunderbringer,level
+[20/09/2011 07:06:18] /addskill Thunderbringer,level
+[20/09/2011 07:06:18] /addskill Thunderbringer,level
+[20/09/2011 07:06:18] /addskill Thunderbringer,level
+[20/09/2011 07:06:18] /addskill Thunderbringer,level
+[20/09/2011 07:06:18] /addskill Thunderbringer,level
+[20/09/2011 07:06:18] /addskill Thunderbringer,level
+[20/09/2011 07:06:19] /addskill Thunderbringer,level
+[20/09/2011 07:06:19] /addskill Thunderbringer,level
+[20/09/2011 07:06:19] /addskill Thunderbringer,level
+[20/09/2011 07:06:19] /addskill Thunderbringer,level
+[20/09/2011 07:06:19] /addskill Thunderbringer,level
+[20/09/2011 07:06:19] /addskill Thunderbringer,level
+[20/09/2011 07:06:19] /addskill Thunderbringer,level
+[20/09/2011 07:06:19] /addskill Thunderbringer,level
+[20/09/2011 07:06:20] /addskill Thunderbringer,level
+[20/09/2011 07:06:20] /addskill Thunderbringer,level
+[20/09/2011 07:06:20] /addskill Thunderbringer,level
+[20/09/2011 07:06:20] /addskill Thunderbringer,level
+[20/09/2011 07:06:20] /addskill Thunderbringer,level
+[20/09/2011 07:06:20] /addskill Thunderbringer,level
+[20/09/2011 07:06:20] /addskill Thunderbringer,level
+[20/09/2011 07:06:20] /addskill Thunderbringer,level
+[20/09/2011 07:06:21] /addskill Thunderbringer,level
+[20/09/2011 07:06:21] /addskill Thunderbringer,level
+[20/09/2011 07:06:21] /addskill Thunderbringer,level
+[20/09/2011 07:06:21] /addskill Thunderbringer,level
+[20/09/2011 07:06:21] /addskill Thunderbringer,level
+[20/09/2011 07:06:21] /addskill Thunderbringer,level
+[20/09/2011 07:06:21] /addskill Thunderbringer,level
+[20/09/2011 07:06:21] /addskill Thunderbringer,level
+[20/09/2011 07:06:22] /addskill Thunderbringer,level
+[20/09/2011 07:06:22] /addskill Thunderbringer,level
+[20/09/2011 07:06:22] /addskill Thunderbringer,level
+[20/09/2011 07:06:22] /addskill Thunderbringer,level
+[20/09/2011 07:06:22] /addskill Thunderbringer,level
+[20/09/2011 07:06:22] /addskill Thunderbringer,level
+[20/09/2011 07:06:22] /addskill Thunderbringer,level
+[20/09/2011 07:06:22] /addskill Thunderbringer,level
+[20/09/2011 07:06:23] /addskill Thunderbringer,level
+[20/09/2011 07:06:23] /addskill Thunderbringer,level
+[20/09/2011 07:06:23] /addskill Thunderbringer,level
+[20/09/2011 07:06:23] /addskill Thunderbringer,level
+[20/09/2011 07:06:23] /addskill Thunderbringer,level
+[20/09/2011 07:06:23] /addskill Thunderbringer,level
+[20/09/2011 07:06:23] /addskill Thunderbringer,level
+[20/09/2011 07:06:24] /addskill Thunderbringer,level
+[20/09/2011 07:06:24] /addskill Thunderbringer,level
+[20/09/2011 07:06:24] /addskill Thunderbringer,level
+[20/09/2011 07:06:24] /addskill Thunderbringer,level
+[20/09/2011 07:06:24] /addskill Thunderbringer,level
+[20/09/2011 07:06:24] /addskill Thunderbringer,level
+[20/09/2011 07:06:24] /addskill Thunderbringer,level
+[20/09/2011 07:06:24] /addskill Thunderbringer,level
+[20/09/2011 07:06:24] /addskill Thunderbringer,level
+[20/09/2011 07:06:25] /addskill Thunderbringer,level
+[20/09/2011 07:06:25] /addskill Thunderbringer,level
+[20/09/2011 07:06:25] /addskill Thunderbringer,level
+[20/09/2011 07:06:25] /addskill Thunderbringer,level
+[20/09/2011 07:06:25] /addskill Thunderbringer,level
+[20/09/2011 07:06:25] /addskill Thunderbringer,level
+[20/09/2011 07:06:25] /addskill Thunderbringer,level
+[20/09/2011 07:06:25] /addskill Thunderbringer,level
+[20/09/2011 07:06:26] /addskill Thunderbringer,level
+[20/09/2011 07:06:26] /addskill Thunderbringer,level
+[20/09/2011 07:06:26] /addskill Thunderbringer,level
+[20/09/2011 07:06:26] /addskill Thunderbringer,level
+[20/09/2011 07:06:26] /addskill Thunderbringer,level
+[20/09/2011 07:06:26] /addskill Thunderbringer,level
+[20/09/2011 07:06:26] /addskill Thunderbringer,level
+[20/09/2011 07:06:26] /addskill Thunderbringer,level
+[20/09/2011 07:06:27] /addskill Thunderbringer,level
+[20/09/2011 07:06:27] /addskill Thunderbringer,level
+[20/09/2011 07:06:27] /addskill Thunderbringer,level
+[20/09/2011 07:06:27] /addskill Thunderbringer,level
+[20/09/2011 07:06:27] /addskill Thunderbringer,level
+[20/09/2011 07:06:27] /addskill Thunderbringer,level
+[20/09/2011 07:06:27] /addskill Thunderbringer,level
+[20/09/2011 07:06:27] /addskill Thunderbringer,level
+[20/09/2011 07:06:28] /addskill Thunderbringer,level
+[20/09/2011 07:06:28] /addskill Thunderbringer,level
+[20/09/2011 07:06:28] /addskill Thunderbringer,level
+[20/09/2011 07:06:28] /addskill Thunderbringer,level
+[20/09/2011 07:06:28] /addskill Thunderbringer,level
+[20/09/2011 07:06:28] /addskill Thunderbringer,level
+[20/09/2011 07:06:28] /addskill Thunderbringer,level
+[20/09/2011 07:06:28] /addskill Thunderbringer,level
+[20/09/2011 07:06:29] /addskill Thunderbringer,level
+[20/09/2011 07:06:29] /addskill Thunderbringer,level
+[20/09/2011 07:06:29] /addskill Thunderbringer,level
+[20/09/2011 07:06:29] /addskill Thunderbringer,level
+[20/09/2011 07:06:29] /addskill Thunderbringer,level
+[20/09/2011 07:06:29] /addskill Thunderbringer,level
+[20/09/2011 07:06:29] /addskill Thunderbringer,level
+[20/09/2011 07:06:30] /addskill Thunderbringer,level
+[20/09/2011 07:06:30] /addskill Thunderbringer,level
+[20/09/2011 07:06:30] /addskill Thunderbringer,level
+[20/09/2011 07:06:30] /addskill Thunderbringer,level
+[20/09/2011 07:06:30] /addskill Thunderbringer,level
+[20/09/2011 07:06:30] /addskill Thunderbringer,level
+[20/09/2011 07:06:30] /addskill Thunderbringer,level
+[20/09/2011 07:06:30] /addskill Thunderbringer,level
+[20/09/2011 07:06:31] /addskill Thunderbringer,level
+[20/09/2011 07:06:31] /addskill Thunderbringer,level
+[20/09/2011 07:06:31] /addskill Thunderbringer,level
+[20/09/2011 07:06:31] /addskill Thunderbringer,level
+[20/09/2011 07:06:31] /addskill Thunderbringer,level
+[20/09/2011 07:06:31] /addskill Thunderbringer,level
+[20/09/2011 07:06:31] /addskill Thunderbringer,level
+[20/09/2011 07:06:31] /addskill Thunderbringer,level
+[20/09/2011 07:06:32] /addskill Thunderbringer,level
+[20/09/2011 07:06:39] /addskill Thunderbringer,magic
+[20/09/2011 07:06:40] /addskill Thunderbringer,magic
+[20/09/2011 07:06:40] /addskill Thunderbringer,magic
+[20/09/2011 07:06:40] /addskill Thunderbringer,magic
+[20/09/2011 07:06:41] /addskill Thunderbringer,magic
+[20/09/2011 07:06:41] /addskill Thunderbringer,magic
+[20/09/2011 07:06:41] /addskill Thunderbringer,magic
+[20/09/2011 07:06:41] /addskill Thunderbringer,magic
+[20/09/2011 07:06:41] /addskill Thunderbringer,magic
+[20/09/2011 07:06:42] /addskill Thunderbringer,magic
+[20/09/2011 07:06:42] /addskill Thunderbringer,magic
+[20/09/2011 07:06:43] /addskill Thunderbringer,magic
+[20/09/2011 07:06:43] /addskill Thunderbringer,magic
+[20/09/2011 07:06:43] /addskill Thunderbringer,magic
+[20/09/2011 07:06:43] /addskill Thunderbringer,magic
+[20/09/2011 07:06:43] /addskill Thunderbringer,magic
+[20/09/2011 07:06:43] /addskill Thunderbringer,magic
+[20/09/2011 07:06:43] /addskill Thunderbringer,magic
+[20/09/2011 07:06:44] /addskill Thunderbringer,magic
+[20/09/2011 07:06:44] /addskill Thunderbringer,magic
+[20/09/2011 07:06:44] /addskill Thunderbringer,magic
+[20/09/2011 07:06:44] /addskill Thunderbringer,magic
+[20/09/2011 07:06:44] /addskill Thunderbringer,magic
+[20/09/2011 07:06:44] /addskill Thunderbringer,magic
+[20/09/2011 07:06:44] /addskill Thunderbringer,magic
+[20/09/2011 07:06:44] /addskill Thunderbringer,magic
+[20/09/2011 07:06:45] /addskill Thunderbringer,magic
+[20/09/2011 07:06:46] /addskill Thunderbringer,magic
+[20/09/2011 07:06:46] /addskill Thunderbringer,magic
+[20/09/2011 07:06:46] /addskill Thunderbringer,magic
+[20/09/2011 07:06:46] /addskill Thunderbringer,magic
+[20/09/2011 07:06:46] /addskill Thunderbringer,magic
+[20/09/2011 07:06:46] /addskill Thunderbringer,magic
+[20/09/2011 07:06:48] /addskill Thunderbringer,magic
+[20/09/2011 07:06:49] /addskill Thunderbringer,magic
+[20/09/2011 07:06:59] /i 2160
+[20/09/2011 07:07:00] /i 2160
+[20/09/2011 07:32:48] /kick Thunderbringer
+[20/09/2011 07:34:25] /goto blade knight
+[20/09/2011 07:34:29] /c Thunderbringer
+[20/09/2011 07:51:49] /goto blade knight
+[20/09/2011 07:52:06] /r
+[20/09/2011 07:52:54] /c Testandooo
+[20/09/2011 08:01:16] /reload actions
+[20/09/2011 08:04:03] /reload map
+[20/09/2011 08:04:07] /reload maps
+[20/09/2011 08:04:10] /reload world
+[20/09/2011 08:17:26] /reload actions
+[20/09/2011 08:18:29] /r
+[20/09/2011 08:24:09] /reload monsters
+[20/09/2011 08:24:15] /goto baron the brute
+[20/09/2011 08:24:28] /goto Baron Brute
+[20/09/2011 08:24:34] /s trainer
+[20/09/2011 08:24:41] /r
+[20/09/2011 08:24:44] /a 2
+[20/09/2011 08:24:49] /s trainer
+[20/09/2011 08:25:01] /r
+[20/09/2011 08:25:03] /a 2
+[20/09/2011 08:25:05] /s trainer
+[20/09/2011 08:25:27] /r
+[20/09/2011 08:25:31] /a 2
+[20/09/2011 08:25:34] /s trainer
+[20/09/2011 08:25:54] /r
+[20/09/2011 08:25:56] /a 2
+[20/09/2011 08:25:59] /s trainer
+[20/09/2011 08:26:13] /r
+[20/09/2011 08:26:15] /a 2
+[20/09/2011 08:26:17] /s trainer
+[20/09/2011 08:27:03] /reload monsters
+[20/09/2011 08:27:11] /m tremorak
+[20/09/2011 08:27:15] /r
+[20/09/2011 08:27:48] /reload monsters
+[20/09/2011 08:27:55] /r
+[20/09/2011 08:28:24] /reload monsters
+[20/09/2011 08:28:39] /reload monsters
+[20/09/2011 08:29:06] /reload monsters
+[20/09/2011 08:29:29] /r
+[24/09/2011 09:37:07] /t
+[24/09/2011 09:38:11] /reload globalevents
+[24/09/2011 09:40:25] /reload globalevents
+[24/09/2011 09:40:48] /reload globalevents
+[24/09/2011 09:51:50] /t
+[24/09/2011 09:53:23] /goto archangel
+[24/09/2011 09:54:17] /c Testeadn
+[24/09/2011 09:54:39] /save
+[24/09/2011 10:06:20] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:21] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:22] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:23] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:24] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:25] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:26] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:27] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:28] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:29] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:30] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:31] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:32] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:33] /addskill Testeadn,level
+[24/09/2011 10:06:34] /addskill Testeadn,level
+[24/09/2011 10:06:34] /addskill Testeadn,level
+[24/09/2011 10:06:34] /addskill Testeadn,level
+[24/09/2011 10:06:34] /addskill Testeadn,level
+[24/09/2011 10:06:42] /a 55
+[24/09/2011 10:06:46] /a 10
+[24/09/2011 10:07:05] /i 12385
+[24/09/2011 10:07:05] /i 12385
+[24/09/2011 10:07:07] /t
+[24/09/2011 10:41:40] /reload npcs
+[24/09/2011 10:43:23] /reload npcs
+[24/09/2011 10:43:37] /reload npcs
+[24/09/2011 10:47:48] /reload movements
+[24/09/2011 10:48:09] /reload movements
+[24/09/2011 10:48:24] /reload movements
+[24/09/2011 10:48:57] /reload movements
+[24/09/2011 10:48:59] /a 2
+[24/09/2011 10:49:05] /reload movements
+[24/09/2011 10:49:20] /reload movements
+[24/09/2011 10:51:00] /reload movements
+[24/09/2011 10:52:10] /c Testeadn
+[24/09/2011 10:53:47] /reload movements
+[24/09/2011 10:54:18] /reload movements
+[24/09/2011 10:55:05] /reload movements
+[24/09/2011 10:57:33] /reload movements
+[24/09/2011 10:57:58] /reload movements
+[24/09/2011 10:59:21] /reload movements
+[24/09/2011 11:13:13] /reload actions
+[24/09/2011 11:18:57] /i 1988
+[24/09/2011 11:19:07] /i demon backpack
+[24/09/2011 11:19:21] /i crystal backpack
+[24/09/2011 11:19:59] /i jewele backpack
+[24/09/2011 11:22:04] /i bag
+[24/09/2011 11:22:28] /reload actions
+[24/09/2011 11:22:39] /goto archangel
+[24/09/2011 11:23:07] /i sword of angel
+[24/09/2011 11:23:09] /i sword of angel
+[24/09/2011 11:23:44] /i 12835
+[24/09/2011 11:23:49] /i 12385
+[24/09/2011 11:23:50] /i 12385
+[24/09/2011 11:28:12] /reload actions
+[24/09/2011 11:29:04] /goto archangel
+[24/09/2011 11:29:06] /c elson
+[24/09/2011 11:30:30] /reload actions
+[24/09/2011 11:42:13] /goto archangel
+[24/09/2011 11:43:34] /reload globalevents
+[24/09/2011 11:44:02] /reload globalevents
+[24/09/2011 11:44:25] /reload globalevents
+[24/09/2011 11:45:27] /reload globalevents
+[24/09/2011 11:45:37] /goto archangel
+[24/09/2011 11:45:55] /i blue bag
+[24/09/2011 11:46:06] /i yellow bag
+[24/09/2011 11:46:14] /i purple bag
+[24/09/2011 11:49:30] /reload npcs
+[24/09/2011 11:49:41] /i sword of angel
+[24/09/2011 12:21:16] /i sudden death runner
+[24/09/2011 12:21:26] /i sudden death rune
+[24/09/2011 12:22:15] /r
+[24/09/2011 12:24:17] /goto tremorak
+[24/09/2011 12:24:39] /promote Testeadn
+[24/09/2011 12:24:40] /promote Testeadn
+[24/09/2011 12:24:41] /promote Testeadn
+[24/09/2011 12:24:43] /c Testeadn
+[24/09/2011 12:25:23] /addskill Testeadn,level
+[24/09/2011 12:25:23] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:24] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:25] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:26] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:27] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:28] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:29] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:30] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:31] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:32] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:33] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:34] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:35] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:36] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:37] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:38] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:39] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:40] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:41] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:42] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:43] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:44] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:45] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:46] /addskill Testeadn,level
+[24/09/2011 12:25:47] /addskill Testeadn,level
+[24/09/2011 12:25:47] /addskill Testeadn,level
+[24/09/2011 12:25:47] /addskill Testeadn,level
+[24/09/2011 12:25:47] /addskill Testeadn,level
+[24/09/2011 12:25:47] /addskill Testeadn,level
+[24/09/2011 12:25:47] /addskill Testeadn,level
+[24/09/2011 12:25:47] /addskill Testeadn,level
+[24/09/2011 12:25:47] /addskill Testeadn,level
+[24/09/2011 12:25:47] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:48] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:49] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:50] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:51] /addskill Testeadn,level
+[24/09/2011 12:25:52] /addskill Testeadn,level
+[24/09/2011 12:25:53] /i fire
+[24/09/2011 12:25:56] /r
+[24/09/2011 12:26:02] /addskill Testeadn,level
+[24/09/2011 12:26:02] /addskill Testeadn,level
+[24/09/2011 12:26:02] /addskill Testeadn,level
+[24/09/2011 12:26:02] /addskill Testeadn,level
+[24/09/2011 12:26:02] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:03] /addskill Testeadn,level
+[24/09/2011 12:26:04] /addskill Testeadn,level
+[24/09/2011 12:26:04] /addskill Testeadn,level
+[24/09/2011 12:26:04] /addskill Testeadn,level
+[24/09/2011 12:26:04] /addskill Testeadn,level
+[24/09/2011 12:26:04] /addskill Testeadn,level
+[24/09/2011 12:26:04] /addskill Testeadn,level
+[24/09/2011 12:26:04] /addskill Testeadn,level
+[24/09/2011 12:26:04] /addskill Testeadn,level
+[24/09/2011 12:26:04] /addskill Testeadn,level
+[24/09/2011 12:26:15] /addskill Testeadn,level
+[24/09/2011 12:26:15] /addskill Testeadn,level
+[24/09/2011 12:26:15] /addskill Testeadn,level
+[24/09/2011 12:26:15] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:16] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:17] /addskill Testeadn,level
+[24/09/2011 12:26:18] /addskill Testeadn,level
+[24/09/2011 12:26:18] /addskill Testeadn,level
+[24/09/2011 12:26:18] /addskill Testeadn,level
+[24/09/2011 12:26:18] /addskill Testeadn,level
+[24/09/2011 12:26:18] /addskill Testeadn,level
+[24/09/2011 12:26:18] /addskill Testeadn,level
+[24/09/2011 12:26:18] /addskill Testeadn,level
+[24/09/2011 12:26:18] /addskill Testeadn,level
+[24/09/2011 12:26:19] /addskill Testeadn,level
+[24/09/2011 12:26:19] /addskill Testeadn,level
+[24/09/2011 12:26:19] /addskill Testeadn,level
+[24/09/2011 12:26:19] /addskill Testeadn,level
+[24/09/2011 12:26:19] /addskill Testeadn,level
+[24/09/2011 12:26:19] /addskill Testeadn,level
+[24/09/2011 12:26:19] /addskill Testeadn,level
+[24/09/2011 12:26:19] /addskill Testeadn,level
+[24/09/2011 12:26:22] /addskill Testeadn,level
+[24/09/2011 12:26:22] /addskill Testeadn,level
+[24/09/2011 12:26:22] /addskill Testeadn,level
+[24/09/2011 12:26:22] /addskill Testeadn,level
+[24/09/2011 12:26:22] /addskill Testeadn,level
+[24/09/2011 12:26:22] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:23] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:24] /addskill Testeadn,level
+[24/09/2011 12:26:25] /addskill Testeadn,level
+[24/09/2011 12:26:25] /addskill Testeadn,level
+[24/09/2011 12:26:25] /addskill Testeadn,level
+[24/09/2011 12:26:25] /addskill Testeadn,level
+[24/09/2011 12:26:25] /addskill Testeadn,level
+[24/09/2011 12:26:25] /addskill Testeadn,level
+[24/09/2011 12:26:25] /addskill Testeadn,level
+[24/09/2011 12:26:27] /addskill Testeadn,level
+[24/09/2011 12:26:27] /addskill Testeadn,level
+[24/09/2011 12:26:27] /addskill Testeadn,level
+[24/09/2011 12:26:27] /addskill Testeadn,level
+[24/09/2011 12:26:27] /addskill Testeadn,level
+[24/09/2011 12:26:28] /addskill Testeadn,level
+[24/09/2011 12:26:28] /addskill Testeadn,level
+[24/09/2011 12:26:28] /addskill Testeadn,level
+[24/09/2011 12:26:28] /addskill Testeadn,level
+[24/09/2011 12:26:28] /addskill Testeadn,level
+[24/09/2011 12:26:28] /addskill Testeadn,level
+[24/09/2011 12:26:28] /addskill Testeadn,level
+[24/09/2011 12:26:28] /addskill Testeadn,level
+[24/09/2011 12:26:28] /addskill Testeadn,level
+[24/09/2011 12:26:29] /addskill Testeadn,level
+[24/09/2011 12:26:29] /addskill Testeadn,level
+[24/09/2011 12:26:29] /addskill Testeadn,level
+[24/09/2011 12:26:29] /addskill Testeadn,level
+[24/09/2011 12:26:29] /addskill Testeadn,level
+[24/09/2011 12:26:29] /addskill Testeadn,level
+[24/09/2011 12:26:29] /addskill Testeadn,level
+[24/09/2011 12:26:29] /addskill Testeadn,level
+[24/09/2011 12:26:29] /addskill Testeadn,level
+[24/09/2011 12:26:30] /addskill Testeadn,level
+[24/09/2011 12:26:30] /addskill Testeadn,level
+[24/09/2011 12:26:30] /addskill Testeadn,level
+[24/09/2011 12:26:30] /addskill Testeadn,level
+[24/09/2011 12:26:30] /addskill Testeadn,level
+[24/09/2011 12:26:30] /addskill Testeadn,level
+[24/09/2011 12:26:30] /addskill Testeadn,level
+[24/09/2011 12:26:30] /addskill Testeadn,level
+[24/09/2011 12:26:30] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:31] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:32] /addskill Testeadn,level
+[24/09/2011 12:26:33] /addskill Testeadn,level
+[24/09/2011 12:26:33] /addskill Testeadn,level
+[24/09/2011 12:26:33] /addskill Testeadn,level
+[24/09/2011 12:26:33] /addskill Testeadn,level
+[24/09/2011 12:26:33] /addskill Testeadn,level
+[24/09/2011 12:26:33] /addskill Testeadn,level
+[24/09/2011 12:26:33] /addskill Testeadn,level
+[24/09/2011 12:26:33] /addskill Testeadn,level
+[24/09/2011 12:26:33] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:34] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:35] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:36] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:37] /addskill Testeadn,level
+[24/09/2011 12:26:38] /addskill Testeadn,level
+[24/09/2011 12:26:38] /addskill Testeadn,level
+[24/09/2011 12:26:38] /addskill Testeadn,level
+[24/09/2011 12:26:38] /addskill Testeadn,level
+[24/09/2011 12:26:38] /addskill Testeadn,level
+[24/09/2011 12:26:38] /addskill Testeadn,level
+[24/09/2011 12:26:38] /addskill Testeadn,level
+[24/09/2011 12:26:38] /addskill Testeadn,level
+[24/09/2011 12:26:38] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:39] /addskill Testeadn,level
+[24/09/2011 12:26:40] /addskill Testeadn,level
+[24/09/2011 12:26:40] /addskill Testeadn,level
+[24/09/2011 12:26:40] /addskill Testeadn,level
+[24/09/2011 12:26:40] /addskill Testeadn,level
+[24/09/2011 12:26:40] /addskill Testeadn,level
+[24/09/2011 12:26:40] /addskill Testeadn,level
+[24/09/2011 12:26:40] /addskill Testeadn,level
+[24/09/2011 12:26:40] /addskill Testeadn,level
+[24/09/2011 12:26:41] /addskill Testeadn,level
+[24/09/2011 12:26:41] /addskill Testeadn,level
+[24/09/2011 12:26:41] /addskill Testeadn,level
+[24/09/2011 12:26:41] /addskill Testeadn,level
+[24/09/2011 12:26:41] /addskill Testeadn,level
+[24/09/2011 12:26:41] /addskill Testeadn,level
+[24/09/2011 12:26:41] /addskill Testeadn,level
+[24/09/2011 12:26:41] /addskill Testeadn,level
+[24/09/2011 12:26:41] /addskill Testeadn,level
+[24/09/2011 12:26:42] /addskill Testeadn,level
+[24/09/2011 12:26:42] /addskill Testeadn,level
+[24/09/2011 12:26:42] /addskill Testeadn,level
+[24/09/2011 12:26:42] /addskill Testeadn,level
+[24/09/2011 12:26:42] /addskill Testeadn,level
+[24/09/2011 12:26:42] /addskill Testeadn,level
+[24/09/2011 12:26:42] /addskill Testeadn,level
+[24/09/2011 12:26:42] /addskill Testeadn,level
+[24/09/2011 12:26:42] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:43] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:44] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:45] /addskill Testeadn,level
+[24/09/2011 12:26:46] /addskill Testeadn,level
+[24/09/2011 12:26:46] /addskill Testeadn,level
+[24/09/2011 12:26:46] /addskill Testeadn,level
+[24/09/2011 12:26:46] /addskill Testeadn,level
+[24/09/2011 12:26:46] /addskill Testeadn,level
+[24/09/2011 12:26:46] /addskill Testeadn,level
+[24/09/2011 12:26:46] /addskill Testeadn,level
+[24/09/2011 12:26:46] /addskill Testeadn,level
+[24/09/2011 12:26:46] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:47] /addskill Testeadn,level
+[24/09/2011 12:26:48] /addskill Testeadn,level
+[24/09/2011 12:26:48] /addskill Testeadn,level
+[24/09/2011 12:26:48] /addskill Testeadn,level
+[24/09/2011 12:26:48] /addskill Testeadn,level
+[24/09/2011 12:26:48] /addskill Testeadn,level
+[24/09/2011 12:26:48] /addskill Testeadn,level
+[24/09/2011 12:26:48] /addskill Testeadn,level
+[24/09/2011 12:26:48] /addskill Testeadn,level
+[24/09/2011 12:26:49] /addskill Testeadn,level
+[24/09/2011 12:26:49] /addskill Testeadn,level
+[24/09/2011 12:26:49] /addskill Testeadn,level
+[24/09/2011 12:26:49] /addskill Testeadn,level
+[24/09/2011 12:26:49] /addskill Testeadn,level
+[24/09/2011 12:26:49] /addskill Testeadn,level
+[24/09/2011 12:26:49] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:50] /addskill Testeadn,level
+[24/09/2011 12:26:51] /addskill Testeadn,level
+[24/09/2011 12:26:51] /addskill Testeadn,level
+[24/09/2011 12:26:51] /addskill Testeadn,level
+[24/09/2011 12:26:51] /addskill Testeadn,level
+[24/09/2011 12:26:51] /addskill Testeadn,level
+[24/09/2011 12:26:51] /addskill Testeadn,level
+[24/09/2011 12:26:51] /addskill Testeadn,level
+[24/09/2011 12:26:51] /addskill Testeadn,level
+[24/09/2011 12:26:51] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:52] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:53] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:54] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:55] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:56] /addskill Testeadn,level
+[24/09/2011 12:26:57] /addskill Testeadn,level
+[24/09/2011 12:26:57] /addskill Testeadn,level
+[24/09/2011 12:26:57] /addskill Testeadn,level
+[24/09/2011 12:26:57] /addskill Testeadn,level
+[24/09/2011 12:26:57] /addskill Testeadn,level
+[24/09/2011 12:26:57] /addskill Testeadn,level
+[24/09/2011 12:26:57] /addskill Testeadn,level
+[24/09/2011 12:26:57] /addskill Testeadn,level
+[24/09/2011 12:26:57] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:58] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:26:59] /addskill Testeadn,level
+[24/09/2011 12:27:00] /addskill Testeadn,level
+[24/09/2011 12:27:00] /addskill Testeadn,level
+[24/09/2011 12:27:00] /addskill Testeadn,level
+[24/09/2011 12:27:00] /addskill Testeadn,level
+[24/09/2011 12:27:00] /addskill Testeadn,level
+[24/09/2011 12:27:00] /addskill Testeadn,level
+[24/09/2011 12:27:00] /addskill Testeadn,level
+[24/09/2011 12:27:00] /addskill Testeadn,level
+[24/09/2011 12:27:00] /addskill Testeadn,level
+[24/09/2011 12:27:01] /addskill Testeadn,level
+[24/09/2011 12:27:01] /addskill Testeadn,level
+[24/09/2011 12:27:01] /addskill Testeadn,level
+[24/09/2011 12:27:01] /addskill Testeadn,level
+[24/09/2011 12:27:01] /addskill Testeadn,level
+[24/09/2011 12:27:01] /addskill Testeadn,level
+[24/09/2011 12:27:01] /addskill Testeadn,level
+[24/09/2011 12:27:01] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:02] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:03] /addskill Testeadn,level
+[24/09/2011 12:27:04] /addskill Testeadn,level
+[24/09/2011 12:27:04] /addskill Testeadn,level
+[24/09/2011 12:27:04] /addskill Testeadn,level
+[24/09/2011 12:27:04] /addskill Testeadn,level
+[24/09/2011 12:27:04] /addskill Testeadn,level
+[24/09/2011 12:27:04] /addskill Testeadn,level
+[24/09/2011 12:27:04] /addskill Testeadn,level
+[24/09/2011 12:27:04] /addskill Testeadn,level
+[24/09/2011 12:27:04] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:05] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:06] /addskill Testeadn,level
+[24/09/2011 12:27:07] /addskill Testeadn,level
+[24/09/2011 12:27:07] /addskill Testeadn,level
+[24/09/2011 12:27:07] /addskill Testeadn,level
+[24/09/2011 12:27:07] /addskill Testeadn,level
+[24/09/2011 12:27:07] /addskill Testeadn,level
+[24/09/2011 12:27:07] /addskill Testeadn,level
+[24/09/2011 12:27:07] /addskill Testeadn,level
+[24/09/2011 12:27:07] /addskill Testeadn,level
+[24/09/2011 12:27:07] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:08] /addskill Testeadn,level
+[24/09/2011 12:27:09] /addskill Testeadn,level
+[24/09/2011 12:27:09] /addskill Testeadn,level
+[24/09/2011 12:27:09] /addskill Testeadn,level
+[24/09/2011 12:27:09] /addskill Testeadn,level
+[24/09/2011 12:27:09] /addskill Testeadn,level
+[24/09/2011 12:27:09] /addskill Testeadn,level
+[24/09/2011 12:27:13] /addskill Testeadn,level
+[24/09/2011 12:27:14] /addskill Testeadn,level
+[24/09/2011 12:27:14] /addskill Testeadn,level
+[24/09/2011 12:27:14] /addskill Testeadn,level
+[24/09/2011 12:27:14] /addskill Testeadn,level
+[24/09/2011 12:27:14] /addskill Testeadn,level
+[24/09/2011 12:27:14] /addskill Testeadn,level
+[24/09/2011 12:27:14] /addskill Testeadn,level
+[24/09/2011 12:27:14] /addskill Testeadn,level
+[24/09/2011 12:27:14] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:15] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:16] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:17] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:18] /addskill Testeadn,level
+[24/09/2011 12:27:19] /addskill Testeadn,level
+[24/09/2011 12:27:19] /addskill Testeadn,level
+[24/09/2011 12:27:19] /addskill Testeadn,level
+[24/09/2011 12:27:19] /addskill Testeadn,level
+[24/09/2011 12:28:03] /t
+[24/09/2011 12:28:40] /a 4
+[24/09/2011 12:30:07] /goto Testeadn
+[24/09/2011 12:30:10] /a 4
+[24/09/2011 12:31:03] /r
+[24/09/2011 12:31:22] /c Testeadn
+[24/09/2011 12:32:19] /promote Testeadn
+[24/09/2011 12:32:22] /promote Testeadn
+[24/09/2011 12:32:24] /r
+[24/09/2011 12:32:34] /c Testeadn
+[24/09/2011 12:33:04] /t
+[24/09/2011 12:33:07] /t
+[24/09/2011 12:33:30] /t
+[24/09/2011 12:33:50] /t
+[24/09/2011 12:34:03] /a 45
+[24/09/2011 12:34:04] /a 45
+[24/09/2011 12:34:46] /i wild grove rune
+[24/09/2011 12:38:05] /demote Testeadn
+[24/09/2011 12:38:53] /demote Testeadn
+[24/09/2011 12:38:56] /demote Te
+[24/09/2011 12:38:59] /demote
+[24/09/2011 12:39:08] /demote
+[24/09/2011 12:40:17] /demote Testeadn 1
+[24/09/2011 12:40:23] /demote 1 lol
+[24/09/2011 12:40:28] /demote Testeadn
+[24/09/2011 12:40:33] /demote Testeadn
+[24/09/2011 12:40:37] /demote Testeadn
+[24/09/2011 12:40:38] /demote Testeadn
+[24/09/2011 12:40:38] /demote Testeadn
+[24/09/2011 12:40:38] /demote Testeadn
+[24/09/2011 12:40:45] /demote Testeadn
+[24/09/2011 12:40:49] /demote Testeadn
+[24/09/2011 12:40:50] /demote Testeadn
+[24/09/2011 12:40:50] /demote Testeadn
+[24/09/2011 12:40:50] /demote Testeadn
+[24/09/2011 12:40:50] /demote Testeadn
+[24/09/2011 12:41:39] /t
+[24/09/2011 12:41:54] /goto archangel
+[24/09/2011 12:42:58] /i warlord sword
+[24/09/2011 12:43:02] /i 8300
+[24/09/2011 12:46:24] /goto archangel
+[24/09/2011 13:36:36] /goto archangel
+[24/09/2011 13:36:59] /save
+[24/09/2011 13:55:43] /i 8300
+[24/09/2011 13:55:45] /i 8300
+[24/09/2011 13:55:52] /i 12385
+[24/09/2011 13:55:54] /i 12385
+[24/09/2011 13:55:59] /i sword of angel
+[24/09/2011 13:56:00] /i sword of angel
+[24/09/2011 13:56:13] /i draken mail
+[24/09/2011 13:56:19] /i royal draken mail
+[24/09/2011 13:56:24] /i royal scale robe
+[24/09/2011 13:56:30] /i draken elite helmet
+[24/09/2011 13:56:38] /i draken elite helmet
+[24/09/2011 13:56:45] /i royal draken elite helmet
+[24/09/2011 13:56:55] /goto tremorak
+[24/09/2011 13:56:58] /a 2
+[24/09/2011 13:57:13] /i elite draken helmet
+[24/09/2011 13:57:26] /save
+[02/10/2011 19:14:46] /save
+[02/10/2011 19:16:15] /closeserver
+[02/10/2011 19:19:58] /up
+[02/10/2011 19:20:05] /t
+[02/10/2011 19:20:08] /town 3
+[06/10/2011 12:58:13] /closeserver
+[06/10/2011 12:58:16] /t
+[06/10/2011 12:58:34] /r
+[06/10/2011 12:58:36] /r
+[06/10/2011 12:58:37] /r
+[06/10/2011 12:58:39] /r
+[06/10/2011 12:58:40] /r
+[06/10/2011 12:58:41] /r
+[06/10/2011 12:58:47] /r
+[06/10/2011 12:58:48] /r
+[06/10/2011 12:58:49] /r
+[06/10/2011 12:58:51] /r
+[06/10/2011 12:58:52] /r
+[06/10/2011 12:58:54] /r
+[06/10/2011 12:59:05] /i enchanted spear
+[06/10/2011 12:59:30] /i staff
+[06/10/2011 12:59:35] /i staff
+[06/10/2011 12:59:36] /i staff
+[06/10/2011 12:59:40] /i staff
+[06/10/2011 12:59:43] /i staff
+[06/10/2011 12:59:44] /i staff
+[06/10/2011 13:00:08] /i staff
+[06/10/2011 13:00:14] /i staff
+[06/10/2011 13:00:15] /i staff
+[06/10/2011 13:00:15] /i staff
+[06/10/2011 13:00:55] /i staff
+[06/10/2011 13:00:56] /i staff
+[06/10/2011 13:00:57] /i staff
+[06/10/2011 13:00:57] /i staff
+[06/10/2011 13:01:05] /i staff
+[06/10/2011 13:01:06] /i staff
+[06/10/2011 13:01:06] /i staff
+[06/10/2011 13:01:07] /i staff
+[06/10/2011 13:01:07] /i staff
+[06/10/2011 13:01:08] /i staff
+[06/10/2011 13:01:49] /i staff
+[06/10/2011 13:01:50] /i staff
+[06/10/2011 13:01:50] /i staff
+[06/10/2011 13:01:51] /i staff
+[06/10/2011 13:02:23] /i staff
+[06/10/2011 13:02:24] /i staff
+[06/10/2011 13:02:24] /i staff
+[06/10/2011 13:05:06] /i staff
+[06/10/2011 13:05:07] /i staff
+[06/10/2011 13:05:07] /i staff
+[06/10/2011 13:05:08] /i staff
+[06/10/2011 13:08:14] /i staff
+[06/10/2011 13:10:35] /r
+[06/10/2011 13:10:42] /r
+[06/10/2011 13:10:48] /r
+[06/10/2011 13:11:04] /r
+[06/10/2011 13:11:06] /i staff
+[06/10/2011 13:11:06] /i staff
+[06/10/2011 13:11:07] /i staff
+[06/10/2011 13:11:07] /i staff
+[06/10/2011 13:11:08] /i staff
+[06/10/2011 13:11:08] /i staff
+[06/10/2011 13:11:40] /i staff
+[06/10/2011 13:11:41] /i staff
+[06/10/2011 13:11:41] /i staff
+[06/10/2011 13:11:42] /i staff
+[06/10/2011 13:12:56] /i staff
+[06/10/2011 13:13:29] /i fire bomb rune
+[06/10/2011 13:14:39] /openserver
+[06/10/2011 13:15:43] /c castiel black angel
+[06/10/2011 13:15:45] /closeserver
+[06/10/2011 13:17:04] /openserver
+[06/10/2011 13:17:30] /promote Castiel Black Angel
+[06/10/2011 13:17:34] /promote Castiel Black Angel
+[06/10/2011 13:17:38] /promote Castiel Black Angel
+[06/10/2011 13:17:39] /promote Castiel Black Angel
+[06/10/2011 13:17:40] /promote Castiel Black Angel
+[06/10/2011 13:17:46] /closeserver
+[06/10/2011 13:21:04] /reload outfits
+[06/10/2011 13:34:29] /c castiel black angel
+[06/10/2011 13:34:34] /i boots of haste
+[06/10/2011 13:34:59] /i 2736
+[06/10/2011 13:35:00] /i 2736
+[06/10/2011 13:35:00] /i 2736
+[06/10/2011 13:35:01] /i 2736
+[06/10/2011 13:35:02] /i 2736
+[06/10/2011 13:35:03] /i 2736
+[06/10/2011 13:35:04] /i 2736
+[06/10/2011 13:35:04] /i 2736
+[06/10/2011 13:35:05] /i 2736
+[06/10/2011 13:35:06] /i 2736
+[06/10/2011 13:35:07] /i 2736
+[06/10/2011 13:35:07] /i 2736
+[06/10/2011 13:35:08] /i 2736
+[06/10/2011 13:35:09] /i 2736
+[06/10/2011 13:35:09] /i 2736
+[06/10/2011 13:35:11] /i 2736
+[06/10/2011 13:35:17] /m hydra
+[06/10/2011 13:35:24] /i sudden death
+[06/10/2011 13:35:28] /i sudden death rune
+[06/10/2011 13:36:18] /addskill castiel black angel,magic
+[06/10/2011 13:36:22] /addskill castiel black angel,magic
+[06/10/2011 13:36:22] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:23] /addskill castiel black angel,magic
+[06/10/2011 13:36:25] /addskill castiel black angel,magic
+[06/10/2011 13:36:25] /addskill castiel black angel,magic
+[06/10/2011 13:36:25] /addskill castiel black angel,magic
+[06/10/2011 13:36:25] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:26] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:27] /addskill castiel black angel,magic
+[06/10/2011 13:36:30] /addskill castiel black angel,magic
+[06/10/2011 13:36:30] /addskill castiel black angel,magic
+[06/10/2011 13:36:30] /addskill castiel black angel,magic
+[06/10/2011 13:36:30] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:31] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:32] /addskill castiel black angel,magic
+[06/10/2011 13:36:33] /addskill castiel black angel,magic
+[06/10/2011 13:36:33] /addskill castiel black angel,magic
+[06/10/2011 13:36:33] /addskill castiel black angel,magic
+[06/10/2011 13:36:33] /addskill castiel black angel,magic
+[06/10/2011 13:36:33] /addskill castiel black angel,magic
+[06/10/2011 13:36:33] /addskill castiel black angel,magic
+[06/10/2011 13:36:33] /addskill castiel black angel,magic
+[06/10/2011 13:36:33] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:35] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:36] /addskill castiel black angel,magic
+[06/10/2011 13:36:37] /addskill castiel black angel,magic
+[06/10/2011 13:36:37] /addskill castiel black angel,magic
+[06/10/2011 13:36:37] /addskill castiel black angel,magic
+[06/10/2011 13:36:37] /addskill castiel black angel,magic
+[06/10/2011 13:36:37] /addskill castiel black angel,magic
+[06/10/2011 13:36:37] /addskill castiel black angel,magic
+[06/10/2011 13:36:43] /r
+[06/10/2011 13:36:48] /c castiel black angel
+[06/10/2011 13:36:53] /c hydra
+[06/10/2011 13:37:20] /m hydra
+[06/10/2011 13:40:18] /c castiel black angel
+[06/10/2011 13:40:18] /addskill castiel black angel,magic
+[06/10/2011 13:40:19] /addskill castiel black angel,magic
+[06/10/2011 13:40:19] /addskill castiel black angel,magic
+[06/10/2011 13:40:19] /addskill castiel black angel,magic
+[06/10/2011 13:40:19] /addskill castiel black angel,magic
+[06/10/2011 13:40:19] /addskill castiel black angel,magic
+[06/10/2011 13:40:19] /addskill castiel black angel,magic
+[06/10/2011 13:40:19] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:20] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:21] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:22] /addskill castiel black angel,magic
+[06/10/2011 13:40:24] /addskill castiel black angel,magic
+[06/10/2011 13:40:24] /addskill castiel black angel,magic
+[06/10/2011 13:40:24] /addskill castiel black angel,magic
+[06/10/2011 13:40:24] /addskill castiel black angel,magic
+[06/10/2011 13:40:24] /addskill castiel black angel,magic
+[06/10/2011 13:40:24] /addskill castiel black angel,magic
+[06/10/2011 13:40:24] /addskill castiel black angel,magic
+[06/10/2011 13:40:24] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:25] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:26] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:27] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:28] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:29] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:30] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:31] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:32] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:33] /addskill castiel black angel,magic
+[06/10/2011 13:40:34] /addskill castiel black angel,magic
+[06/10/2011 13:40:34] /addskill castiel black angel,magic
+[06/10/2011 13:40:34] /addskill castiel black angel,magic
+[06/10/2011 13:40:34] /addskill castiel black angel,magic
+[06/10/2011 13:40:37] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:38] /addskill castiel black angel,magic
+[06/10/2011 13:40:42] /addskill castiel black angel,magic
+[06/10/2011 13:40:42] /addskill castiel black angel,magic
+[06/10/2011 13:40:42] /addskill castiel black angel,magic
+[06/10/2011 13:40:42] /addskill castiel black angel,magic
+[06/10/2011 13:40:42] /addskill castiel black angel,magic
+[06/10/2011 13:40:42] /addskill castiel black angel,magic
+[06/10/2011 13:40:42] /addskill castiel black angel,magic
+[06/10/2011 13:40:42] /addskill castiel black angel,magic
+[06/10/2011 13:40:43] /addskill castiel black angel,magic
+[06/10/2011 13:40:43] /addskill castiel black angel,magic
+[06/10/2011 13:40:43] /addskill castiel black angel,magic
+[06/10/2011 13:40:43] /addskill castiel black angel,magic
+[06/10/2011 13:40:58] /i sudden death rune
+[06/10/2011 13:41:23] /save
+[06/10/2011 13:41:50] /i meat
+[06/10/2011 13:42:17] /i 1544
+[06/10/2011 13:42:18] /i 1544
+[06/10/2011 13:42:22] /i 1544
+[06/10/2011 13:42:22] /i 1544
+[06/10/2011 13:42:24] /i 1544
+[06/10/2011 13:42:25] /i 1544
+[06/10/2011 13:42:29] /a 2
+[06/10/2011 13:42:33] /m dragon
+[06/10/2011 13:42:35] /m dragon
+[06/10/2011 13:43:04] /m cyclopes
+[06/10/2011 13:43:23] /m kongra
+[06/10/2011 13:43:25] /m kongra
+[06/10/2011 13:43:43] /t
+[06/10/2011 13:43:49] /c castiel black angel
+[06/10/2011 13:43:52] /m ferumbras
+[06/10/2011 13:44:25] /c castiel black angel
+[06/10/2011 13:44:30] /m dragon
+[06/10/2011 13:44:38] /m dragon
+[06/10/2011 13:44:39] /m dragon
+[06/10/2011 13:45:06] /m lion
+[06/10/2011 13:45:22] /addskill castiel black angel,magic
+[06/10/2011 13:45:22] /addskill castiel black angel,magic
+[06/10/2011 13:45:22] /addskill castiel black angel,magic
+[06/10/2011 13:45:22] /addskill castiel black angel,magic
+[06/10/2011 13:45:22] /addskill castiel black angel,magic
+[06/10/2011 13:45:22] /addskill castiel black angel,magic
+[06/10/2011 13:45:23] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:24] /m lion
+[06/10/2011 13:45:42] /m hydra
+[06/10/2011 13:45:44] /m hydra
+[06/10/2011 13:45:44] /m hydra
+[06/10/2011 13:45:45] /m hydra
+[06/10/2011 13:45:45] /m hydra
+[06/10/2011 13:45:51] /r
+[06/10/2011 13:45:52] /r
+[06/10/2011 13:45:53] /r
+[06/10/2011 13:45:54] /r
+[06/10/2011 13:45:54] /r
+[06/10/2011 13:46:15] /c castiel black angel
+[06/10/2011 13:46:27] /i sudden death rune
+[06/10/2011 13:46:38] /m dragon
+[06/10/2011 13:46:54] /m dragon
+[06/10/2011 13:47:04] /m dragon
+[06/10/2011 13:47:38] /reload config
+[06/10/2011 13:47:42] /m rotworm
+[06/10/2011 13:48:13] /i 1544
+[06/10/2011 13:48:37] /reload config
+[06/10/2011 13:48:40] /m demon
+[06/10/2011 13:49:28] /m dragon lord
+[06/10/2011 13:49:45] /m dragon
+[06/10/2011 13:49:54] /m dragon
+[06/10/2011 13:49:55] /m dragon
+[06/10/2011 13:50:08] /m dragon
+[06/10/2011 13:50:18] /m dragon
+[06/10/2011 13:50:36] /m kongra
+[06/10/2011 13:50:53] /m rotworm
+[06/10/2011 13:51:07] /m rotworm
+[06/10/2011 13:51:19] /save
+[06/10/2011 13:51:31] /t
+[06/10/2011 13:52:01] /goto castiel black angel
+[06/10/2011 13:52:17] /i great shield
+[06/10/2011 13:52:31] /save
+[06/10/2011 13:59:05] /reload config
+[06/10/2011 13:59:34] /reload config
+[06/10/2011 13:59:38] /m rat
+[06/10/2011 14:00:18] /m rat
+[06/10/2011 14:00:23] /reload config
+[06/10/2011 14:00:24] /m rat
+[06/10/2011 14:01:34] /reload config
+[06/10/2011 14:01:38] /i fire bomb rune
+[06/10/2011 14:01:42] /t
+[06/10/2011 14:02:28] /goto castiel black angel
+[06/10/2011 14:02:41] /ghost
+[06/10/2011 14:02:56] /m lion
+[06/10/2011 14:03:06] /m lion
+[06/10/2011 14:03:24] /m lion
+[29/10/2011 17:35:50] /t
+[29/10/2011 17:36:32] /r
+[29/10/2011 17:39:49] /a 3
+[29/10/2011 17:39:51] /a 3
+[29/10/2011 17:39:58] /a 2
+[29/10/2011 17:46:13] /mc
+[29/10/2011 17:46:16] /r
+[12/11/2011 01:23:50] /t
+[12/11/2011 01:29:41] /save
+[04/01/2012 23:39:05] /reload global events
+[05/01/2012 00:54:34] /t
+[05/01/2012 00:55:13] /i enforced wand
+[05/01/2012 00:56:40] /goto angel
+[05/01/2012 00:56:52] /goto dead angel
+[05/01/2012 00:56:58] /goto archangel
+[05/01/2012 00:58:17] /a 2
+[05/01/2012 00:58:38] /s ferumbras
+[05/01/2012 00:58:47] /s ferumbras
+[05/01/2012 00:58:48] /s ferumbras
+[05/01/2012 00:58:48] /s ferumbras
+[05/01/2012 00:58:49] /s ferumbras
+[05/01/2012 00:58:49] /s ferumbras
+[05/01/2012 00:58:58] /s ferumbras
+[05/01/2012 00:58:59] /s ferumbras
+[05/01/2012 00:58:59] /s ferumbras
+[05/01/2012 00:59:17] /s ferumbras
+[05/01/2012 00:59:18] /s ferumbras
+[05/01/2012 00:59:18] /s ferumbras
+[05/01/2012 00:59:19] /s ferumbras
+[05/01/2012 00:59:20] /s ferumbras
+[05/01/2012 00:59:20] /s ferumbras
+[05/01/2012 00:59:21] /s ferumbras
+[05/01/2012 00:59:24] /s ferumbras
+[05/01/2012 00:59:25] /s ferumbras
+[05/01/2012 00:59:32] /s ferumbras
+[05/01/2012 00:59:32] /s ferumbras
+[05/01/2012 00:59:33] /s ferumbras
+[05/01/2012 01:00:33] /a 2
+[05/01/2012 12:09:18] /t
+[06/01/2012 15:35:56] /i 8293
+[06/01/2012 15:36:50] /reload npcs
+[06/01/2012 15:37:05] /t
+[06/01/2012 15:37:18] /a 2
+[06/01/2012 15:37:57] /a 2
+[06/01/2012 15:39:27] /reload npcs
+[07/01/2012 03:42:26] /a 2
+[07/01/2012 03:42:35] /t
+[07/01/2012 03:49:05] /i parcel
+[07/01/2012 03:49:12] /i label
+[07/01/2012 03:49:39] /t
+[23/05/2019 18:24:31] /reload spells
+[23/05/2019 18:26:31] /reload spells
+[23/05/2019 18:27:47] /reload spells
+[23/05/2019 18:28:31] /reload spells
+[23/05/2019 18:31:06] /reload spells
+[23/05/2019 18:31:55] /reload spells
+[23/05/2019 18:33:08] /reload spells
+[23/05/2019 18:34:15] /reload spells
+[23/05/2019 18:35:06] /reload spells
+[23/05/2019 18:37:24] /reload spells
+[23/05/2019 18:37:29] /m trainer
+[23/05/2019 18:37:30] /m trainer
+[23/05/2019 18:37:30] /m trainer
+[23/05/2019 18:37:31] /m trainer
+[23/05/2019 18:38:34] /reload spells
+[23/05/2019 18:44:41] /reload spells
+[23/05/2019 18:46:45] /reload spells
+[23/05/2019 19:00:30] /reload spells
+[23/05/2019 19:02:21] /reload spells
+[23/05/2019 19:06:04] /reload spells
+[23/05/2019 19:09:29] /reload spells
+[23/05/2019 19:19:05] /reload spells
+[23/05/2019 19:19:35] /reload spells
+[23/05/2019 19:20:10] /reload spells
+[23/05/2019 19:20:38] /m trainer
+[23/05/2019 19:20:39] /m trainer
+[23/05/2019 19:20:39] /m trainer
+[23/05/2019 19:20:40] /m trainer
+[23/05/2019 19:20:40] /m trainer
+[23/05/2019 19:20:41] /m trainer
+[23/05/2019 19:20:41] /m trainer
+[23/05/2019 19:20:42] /m trainer
+[23/05/2019 19:21:11] /reload spells
+[23/05/2019 19:21:30] /reload spells
+[23/05/2019 19:21:59] /reload spells
+[23/05/2019 19:23:17] /reload spells
+[24/05/2019 13:42:10] /m trainer
+[24/05/2019 13:43:38] /reload spells
+[24/05/2019 13:44:49] /reload spells
+[24/05/2019 13:50:08] /reload spells
+[24/05/2019 13:50:56] /reload spells
+[24/05/2019 13:51:33] /reload spells
+[24/05/2019 13:53:22] /reload spells
+[24/05/2019 13:55:38] /reload spells
+[24/05/2019 13:56:57] /reload spells
+[24/05/2019 13:58:36] /reload spells
+[24/05/2019 14:02:12] /reload spells
+[24/05/2019 14:07:09] /reload spells
+[24/05/2019 14:07:59] /m exp bug
+[24/05/2019 14:08:00] /m exp bug
+[24/05/2019 16:39:06] /addskill royal paladin, experience, 100
+[24/05/2019 16:39:10] /addskill royal paladin, experience, 100
+[24/05/2019 16:39:11] /addskill royal paladin, experience, 100
+[24/05/2019 16:39:48] /m treiner
+[24/05/2019 16:39:53] /m trainer
+[24/05/2019 16:39:54] /m trainer
+[24/05/2019 16:40:08] /addskill royal paladin, distance, 130
+[24/05/2019 16:50:14] /reload spells
+[24/05/2019 16:50:52] /m trainer
+[24/05/2019 16:50:55] /m trainer
+[24/05/2019 16:50:56] /m trainer
+[24/05/2019 17:02:31] /reload spells
+[24/05/2019 17:03:56] /reload spells
+[24/05/2019 17:03:57] /r
+[24/05/2019 17:03:57] /r
+[24/05/2019 17:03:58] /r
+[24/05/2019 17:04:17] /i meat
+[24/05/2019 17:08:48] /reload spells
+[24/05/2019 17:13:10] /reload spells
+[24/05/2019 17:19:26] /reload spells
+[24/05/2019 17:26:17] /reload spells
+[24/05/2019 17:27:38] /reload spells
+[24/05/2019 17:29:07] /reload spells
+[24/05/2019 17:29:33] /reload spells
+[24/05/2019 17:33:51] /reload spells
+[24/05/2019 17:40:45] /reload spells
+[24/05/2019 17:43:28] /reload spells
+[24/05/2019 17:44:10] /reload spells
+[24/05/2019 17:47:57] /reload spells
+[24/05/2019 17:49:55] /reload spells
+[24/05/2019 17:51:36] /reload spells
+[24/05/2019 17:53:38] /reload spells
+[24/05/2019 17:55:00] /reload spells
+[24/05/2019 17:55:22] /reload spells
+[24/05/2019 17:56:52] /a
+[24/05/2019 18:00:14] /reload spells
+[24/05/2019 18:01:19] /a
+[24/05/2019 18:01:20] /r
+[24/05/2019 18:01:23] /reload spells
+[24/05/2019 18:02:13] /reload spells
+[24/05/2019 18:03:36] /reload spells
+[24/05/2019 18:05:58] /reload spells
+[24/05/2019 18:06:10] /reload spells
+[24/05/2019 18:06:31] /reload spells
+[24/05/2019 18:08:12] /reload spells
+[24/05/2019 18:08:49] /reload spells
+[24/05/2019 18:21:21] /reload spells
+[24/05/2019 18:21:42] /reload spells
+[24/05/2019 22:01:50] /reload spells
+[24/05/2019 22:03:38] /reload spells
+[24/05/2019 22:03:41] /m trainer
+[24/05/2019 22:03:41] /m trainer
+[24/05/2019 22:03:42] /m trainer
+[24/05/2019 22:03:42] /m trainer
+[24/05/2019 22:03:43] /m trainer
+[24/05/2019 22:03:43] /m trainer
+[24/05/2019 22:03:44] /m trainer
+[24/05/2019 22:03:44] /m trainer
+[24/05/2019 22:07:51] /reload spells
+[24/05/2019 22:08:18] /reload spells
+[24/05/2019 22:09:17] /reload spells
+[24/05/2019 22:09:39] /reload spells
+[24/05/2019 22:11:07] /reload spells
+[24/05/2019 22:11:29] /reload spells
+[24/05/2019 22:12:17] /reload spells
+[24/05/2019 22:12:50] /reload spells
+[24/05/2019 22:18:03] /reload spells
+[24/05/2019 22:18:45] /reload spells
+[24/05/2019 22:19:45] /reload spells
+[24/05/2019 22:20:35] /reload spells
+[24/05/2019 22:21:14] /reload spells
+[24/05/2019 22:21:35] /reload spells
+[24/05/2019 22:22:19] /reload spells
+[24/05/2019 22:23:05] /reload spells
+[24/05/2019 23:40:53] /reload spells
+[24/05/2019 23:42:19] /reload spells
+[24/05/2019 23:44:07] /reload spells
+[24/05/2019 23:44:33] /reload spells
+[24/05/2019 23:44:59] /reload spells
+[24/05/2019 23:45:20] /reload spells
+[24/05/2019 23:45:52] /m trainer
+[24/05/2019 23:46:00] /m trainer
+[24/05/2019 23:47:33] /m trainer
+[24/05/2019 23:47:36] /reload spells
+[24/05/2019 23:48:42] /reload spells
+[24/05/2019 23:52:38] /reload spells
+[24/05/2019 23:52:40] /r
+[24/05/2019 23:53:38] /reload spells
+[24/05/2019 23:54:41] /reload spells
+[24/05/2019 23:55:46] /reload spells
+[24/05/2019 23:56:10] /reload spells
+[24/05/2019 23:58:51] /reload spells
+[25/05/2019 00:00:16] /reload spells
+[25/05/2019 00:07:06] /reload spells
+[25/05/2019 00:08:06] /r
+[25/05/2019 00:09:36] /addskill elite knight, experience, 300
+[25/05/2019 00:09:54] /addskill elite knight, sword, 130
+[25/05/2019 00:26:52] /reload spells
+[25/05/2019 00:33:10] /reload spells
+[25/05/2019 00:34:27] /reload spells
+[25/05/2019 00:36:33] /reload spells
+[25/05/2019 00:38:12] /reload spells
+[25/05/2019 00:38:38] /reload spells
+[25/05/2019 00:39:35] /reload spells
+[25/05/2019 00:40:17] /reload spells
+[25/05/2019 00:40:58] /reload spells
+[25/05/2019 00:42:31] /reload spells
+[25/05/2019 00:43:16] /reload spells
+[25/05/2019 00:43:50] /reload spells
+[25/05/2019 00:44:47] /reload spells
+[25/05/2019 00:48:07] /reload spells
+[25/05/2019 00:49:32] /reload spells
+[25/05/2019 00:50:04] /reload spells
+[25/05/2019 00:51:34] /reload spells
+[25/05/2019 10:28:36] /reload spells
+[25/05/2019 10:29:09] /reload spells
+[25/05/2019 10:31:15] /reload spells
+[25/05/2019 10:31:41] /reload spells
+[25/05/2019 10:32:37] /reload spells
+[25/05/2019 10:33:26] /m trainer
+[25/05/2019 10:33:27] /m trainer
+[25/05/2019 10:33:27] /m trainer
+[25/05/2019 10:33:28] /m trainer
+[25/05/2019 10:33:29] /m trainer
+[25/05/2019 10:33:29] /m trainer
+[25/05/2019 10:33:30] /m trainer
+[25/05/2019 10:33:31] /m trainer
+[25/05/2019 10:38:35] /reload spells
+[25/05/2019 10:39:03] /reload spells
+[25/05/2019 10:41:13] /reload spells
+[25/05/2019 10:42:27] /reload spells
+[25/05/2019 10:48:46] /reload spells
+[25/05/2019 10:56:18] /reload spells
+[25/05/2019 10:59:05] /reload spells
+[25/05/2019 11:03:21] /reload spells
+[25/05/2019 11:04:11] /reload spells
+[25/05/2019 11:07:23] /reload spells
+[25/05/2019 11:16:44] /reload spells
+[25/05/2019 11:17:40] /reload spells
+[25/05/2019 21:44:27] /reload spells
+[25/05/2019 21:44:31] /m trainer
+[25/05/2019 21:49:50] /reload spells
+[25/05/2019 21:51:04] /reload spells
+[25/05/2019 21:52:15] /reload spells
+[25/05/2019 21:53:05] /reload spells
+[25/05/2019 21:53:41] /reload spells
+[25/05/2019 21:54:04] /reload spells
+[25/05/2019 21:54:22] /reload spells
+[25/05/2019 21:55:09] /reload spells
+[25/05/2019 21:55:53] /reload spells
+[25/05/2019 22:16:51] /reload spells
+[25/05/2019 22:17:10] /reload spells
+[25/05/2019 22:17:48] /reload spells
+[25/05/2019 22:19:58] /reload spells
+[25/05/2019 22:23:04] /reload spells
+[25/05/2019 22:24:35] /reload spells
+[25/05/2019 22:25:09] /reload spells
+[25/05/2019 22:26:30] /reload spells
+[25/05/2019 22:27:01] /reload spells
+[25/05/2019 22:28:09] /reload spells
+[25/05/2019 22:28:35] /reload spells
+[25/05/2019 22:28:43] /reload spells
+[25/05/2019 22:39:45] /reload spells
+[25/05/2019 22:40:40] /reload spells
+[25/05/2019 22:41:23] /reload spells
+[25/05/2019 22:42:47] /reload spells
+[25/05/2019 22:44:34] /reload spells
+[25/05/2019 22:44:53] /reload spells
+[25/05/2019 22:45:51] /reload spells
+[25/05/2019 22:47:17] /reload spells
+[25/05/2019 22:48:52] /reload spells
+[25/05/2019 22:50:05] /reload spells
+[25/05/2019 22:52:53] /reload spells
+[25/05/2019 22:54:09] /reload spells
+[25/05/2019 22:55:19] /reload spells
+[25/05/2019 22:55:59] /reload spells
+[25/05/2019 22:57:10] /reload spells
+[25/05/2019 22:58:10] /reload spells
+[25/05/2019 22:58:46] /reload spells
+[25/05/2019 23:01:27] /reload spells
+[25/05/2019 23:07:22] /reload spells

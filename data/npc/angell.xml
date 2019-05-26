@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Guard Angel" script="data/npc/scripts/default.lua" walkinterval="0" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="335" head="0" body="0" legs="0" feet="0" addons="3"/>
+<voices>
+<voice text="Guerreiros,precisamos de sua ajuda!" interval2="100" margin="1" yell="no"/>
+</voices>
+    <parameters>
+        <parameter key="message_greet" value="Precisamos de sua Ajuda"/>
+        <parameter key="message_farewell" value="Nos ajude a combater o mal!"/>
+        <parameter key="module_keywords" value="1" />
+        <parameter key="keywords" value="job;" />
+        <parameter key="keyword_reply1" value="It's my duty to protect our fair city." />
+
+        <parameter key="module_shop" value="1"/>
+        <parameter key="shop_sellable" value="" />
+        <parameter key="shop_buyable" value="" />
+    </parameters>
+</npc>
